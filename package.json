@@ -8,11 +8,13 @@
     "@testing-library/user-event": "^12.1.10",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
+    "evergreen-ui": "^5.1.2",
     "express": "^4.17.1",
     "mongodb": "^3.6.4",
     "mongoose": "^5.11.15",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.0.1"
   },
